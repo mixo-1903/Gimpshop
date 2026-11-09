@@ -220,4 +220,4 @@ GIMPshop is offered as the full free version with all features and updates inclu
 Start your creative journey today! Download GIMPshop now and unleash your potential as a designer.
 
 ---
-**Last updated:** 2026-11-09 09:13:34 UTC
+**Last updated:** 2026-11-09 20:27:20 UTC
